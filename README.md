@@ -47,7 +47,7 @@ healthcare-claims-eda/
 ---
 
 ## 📌 Blogs & Writeups
-- [Why I’m Learning SQL + Python with Healthcare Data]([https://www.linkedin.com/posts/bhanu-garg](https://www.linkedin.com/posts/bhanu-garg-25699614_healthcaredata-sql-python-activity-7366199184254836736-Qd5m?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAL-LuIB6PLVnQ3cZdiy4U7LLEZrDb3CPV4))  
+- [Why I’m Learning SQL + Python with Healthcare Data]([https://www.linkedin.com/posts/bhanu-garg](https://www.linkedin.com/posts/bhanu-garg-25699614_healthcaredata-sql-python-activity-7366199184254836736-Qd5m?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAL-LuIB6PLVnQ3cZdiy4U7LLEZrDb3CPV4)  
 - Blog 1: From CSV to Insight — My First Healthcare Claims EDA in Python (coming soon)  
 - HC01 Showcase Blog: Exploratory Analysis of Healthcare Claims Data (coming soon)  
 
