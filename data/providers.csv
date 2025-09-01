@@ -1,0 +1,21 @@
+provider_id,provider_name,specialty,state,network_flag
+P0001,Dr. Smith,Oncology,SC,In
+P0002,Dr. Nguyen,Orthopedics,GA,Out
+P0003,Dr. Brown,Family Medicine,AL,In
+P0004,Dr. Patel,Cardiology,AL,Out
+P0005,Dr. Clark,Orthopedics,TN,In
+P0006,Dr. Lee,Neurology,GA,In
+P0007,Dr. Brown,Neurology,TN,Out
+P0008,Dr. Lee,Cardiology,NC,In
+P0009,Dr. Davis,Dermatology,TN,Out
+P0010,Dr. Brown,Pediatrics,TN,In
+P0011,Dr. Smith,Dermatology,NC,Out
+P0012,Dr. Garcia,Cardiology,AL,Out
+P0013,Dr. Martinez,Neurology,SC,Out
+P0014,Dr. Smith,Cardiology,AL,In
+P0015,Dr. Clark,Pediatrics,GA,In
+P0016,Dr. Clark,Neurology,AL,Out
+P0017,Dr. Nguyen,Endocrinology,SC,In
+P0018,Dr. Nguyen,Endocrinology,TN,Out
+P0019,Dr. Smith,Neurology,GA,In
+P0020,Dr. Brown,Neurology,GA,Out
