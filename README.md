@@ -1,7 +1,7 @@
 # Healthcare Claims EDA (HC01 Project)
 
 Exploratory Data Analysis of synthetic healthcare claims data using **SQL + Python**.  
-This project is part of my **CUP Master Plan (Phase 0)** and serves as the foundation for advanced analytics in healthcare and insurance.
+This project serves as the foundation for advanced analytics in healthcare and insurance.
 
 ---
 
