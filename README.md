@@ -1,7 +1,7 @@
 # HC01 — Healthcare Claims Exploratory Data Analysis (EDA)
 
 ## 📌 Project Overview
-This project is part of **Phase 0** of my CUP Master Plan.  
+
 The goal is to analyze healthcare claims data using **SQL + Python (pandas + matplotlib)** to extract meaningful insights, build reproducible workflows, and create recruiter-friendly deliverables.  
 It also serves as the foundation for advanced analytics in healthcare and insurance.
 
